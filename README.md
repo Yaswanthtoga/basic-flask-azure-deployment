@@ -24,7 +24,7 @@ Requirements :
 2) Install Azure CLI locally on your machine.
 ```
 ##### Azure Resource Creation and Initial Deployment
-`./azure.sh` <br>
+`./azure.sh <give-web-app-name> <give-resource-group-name>` <br>
 ###### Note : If you got any permission error, while executing the scripts do update the file permission -> `chmod +x azure.sh`
 
 ### Accesing the application
