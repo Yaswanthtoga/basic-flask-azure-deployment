@@ -27,5 +27,6 @@ Requirements :
 `./azure.sh` <br>
 ###### Note : If you got any permission error, while executing the scripts do update the file permission -> `chmod +x azure.sh`
 
-
+### Accesing the application
+###### You can see the domain url provided in the azure portal in the web app resource. <br>
 
