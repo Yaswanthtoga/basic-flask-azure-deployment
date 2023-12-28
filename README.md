@@ -25,6 +25,7 @@ Requirements :
 ```
 ##### Azure Resource Creation and Initial Deployment
 `./azure.sh <give-web-app-name> <give-resource-group-name>` <br>
+###### <give-web-app-name> , <give-resource-group-name> these are parameters give any name for each. For example `./azure.sh basic-flask-app flask-app-resource-group` 
 ###### Note : If you got any permission error, while executing the scripts do update the file permission -> `chmod +x azure.sh`
 
 ### Accesing the application
